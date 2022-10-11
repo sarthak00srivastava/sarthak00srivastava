@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sarthak00srivastava
 - 👀 I’m interested in Coding Python and JAVA 
-- 🌱 I’m currently learning Full Stack
-- 💞️ I’m looking to collaborate on Django Projects
+- 🌱 I’m currently learning Web and App Dev.
+- 💞️ I’m looking to collaborate on Flutter and Django Projects
 - 📫 How to reach me is as simple as to mail on sarthak00mmmut@gmail.com
 
 <!---
