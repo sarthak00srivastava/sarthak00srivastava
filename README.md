@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarthak00srivastava
 - 👀 I’m interested in Python
 - 🌱 I’m currently mastering Development.
-- 💞️ I’m looking to collaborate on Flutter and Django Projects
+- 💞️ I’m looking to collaborate on Flask, Django and Flutter Projects
 - 📫 How to reach me is as simple as to mail on sarthak00mmmut@gmail.com
